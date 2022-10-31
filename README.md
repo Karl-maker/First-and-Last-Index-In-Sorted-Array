@@ -25,6 +25,6 @@ for(i = 0; i < arr.length; i++)
     }
 }
 
-console.log(output); // [ 3, 6 ]
+console.log(output); // [ 7, 7 ]
 ```
 
